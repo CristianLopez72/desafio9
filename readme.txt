@@ -1,0 +1,9 @@
+---URLS---
+/api/productos
+GET: '/fackerMock' - mock con Facker de 5 productos al azar.
+
+/api/mensajes
+GET: '/todos' - Trae todos los mensajes de Mongo.
+GET: '/mormalizados' - Trae lo mensajes de Mongo y los normaliza. 
+GET: '/denormalizados' - Trae los mensajes de Mongo, los normaliza y luego los denormaliza nuevamente 
+

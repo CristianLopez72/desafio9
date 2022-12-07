@@ -1,0 +1,10 @@
+[
+    {
+            "id": "ventas@fincaonline.com.ar", 
+            "nombre": "cristian", 
+            "apellido": "daniel", 
+            "edad": "50", 
+            "alias": "tulu",
+            "avatar": "avatar"
+    }
+]
