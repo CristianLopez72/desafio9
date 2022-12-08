@@ -2,7 +2,7 @@
 import { MensajesModelo } from "../modelos/mensajes.js";
 import { normalize, denormalize, schema } from "normalizr";
 
-const autor = new schema.Entity("author", {}, { idAttribute: "id" });
+const autor = new schema.Entity("autor", {}, { idAttribute: "id" });
 
 const msg = new schema.Entity(
   "mensaje",
